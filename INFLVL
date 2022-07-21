@@ -1,0 +1,10 @@
+while wait() do
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Bars["Exp_Text"]["Exp_Max"].Text = 9999999
+
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Bars["Exp_Text"].Text = 999999999
+
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Bars["Level_text"].Text = 100
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.Bars["Level_text_background"].Text = 100
+
+
+end
